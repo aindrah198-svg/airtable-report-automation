@@ -1,0 +1,37 @@
+{
+  "source": "sample",
+  "stats": {
+    "pages": 3,
+    "requests": 0,
+    "retries": 0
+  },
+  "summary": {
+    "orders": 24,
+    "paid_orders": 16,
+    "paid_usd": "2728.00",
+    "pending_usd": "595.50",
+    "refunded_usd": "760.50",
+    "from": "2026-10-01",
+    "to": "2026-10-24",
+    "categories": [
+      {
+        "name": "Web services",
+        "amount_usd": "1250.00"
+      },
+      {
+        "name": "Branding",
+        "amount_usd": "1053.00"
+      },
+      {
+        "name": "Website care",
+        "amount_usd": "425.00"
+      }
+    ]
+  },
+  "completed_at": "2026-11-02T20:21:13.615589+00:00",
+  "notes": [
+    "Paid revenue excludes Pending and Refunded amounts.",
+    "This read-only report has no Airtable writeback.",
+    "Fetching multiple pages is not a transactional Airtable snapshot."
+  ]
+}

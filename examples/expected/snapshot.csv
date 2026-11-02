@@ -1,0 +1,25 @@
+﻿order_id,date,customer,category,amount,status
+ORD-2001,2026-10-01,Olivia Martin,Web services,250.00,Refunded
+ORD-2002,2026-10-02,Jackson Lee,Branding,175.50,Paid
+ORD-2003,2026-10-03,Sofia Chen,Website care,85.00,Paid
+ORD-2004,2026-10-04,Noah Williams,Web services,250.00,Paid
+ORD-2005,2026-10-05,Emma Davis,Branding,175.50,Paid
+ORD-2006,2026-10-06,Liam Wilson,Website care,85.00,Pending
+ORD-2007,2026-10-07,Olivia Martin,Web services,250.00,Paid
+ORD-2008,2026-10-08,Jackson Lee,Branding,175.50,Refunded
+ORD-2009,2026-10-09,Sofia Chen,Website care,85.00,Paid
+ORD-2010,2026-10-10,Noah Williams,Web services,250.00,Paid
+ORD-2011,2026-10-11,Emma Davis,Branding,175.50,Pending
+ORD-2012,2026-10-12,Liam Wilson,Website care,85.00,Paid
+ORD-2013,2026-10-13,Olivia Martin,Web services,250.00,Paid
+ORD-2014,2026-10-14,Jackson Lee,Branding,175.50,Paid
+ORD-2015,2026-10-15,Sofia Chen,Website care,85.00,Refunded
+ORD-2016,2026-10-16,Noah Williams,Web services,250.00,Pending
+ORD-2017,2026-10-17,Emma Davis,Branding,175.50,Paid
+ORD-2018,2026-10-18,Liam Wilson,Website care,85.00,Paid
+ORD-2019,2026-10-19,Olivia Martin,Web services,250.00,Paid
+ORD-2020,2026-10-20,Jackson Lee,Branding,175.50,Paid
+ORD-2021,2026-10-21,Sofia Chen,Website care,85.00,Pending
+ORD-2022,2026-10-22,Noah Williams,Web services,250.00,Refunded
+ORD-2023,2026-10-23,Emma Davis,Branding,175.50,Paid
+ORD-2024,2026-10-24,Liam Wilson,Website care,85.00,Paid
